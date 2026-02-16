@@ -1,0 +1,462 @@
+https://wikipedia.org 403
+https://google.com 200
+https://twitter.com 403
+https://slashdot.org 200
+https://youtube.com 200
+https://google.co.in 200
+https://live.com 440
+https://facebook.com 200
+https://amazon.com 200
+https://linkedin.com 200
+https://sina.com.cn 403
+https://google.co.jp 200
+https://bing.com 200
+https://yahoo.com 429
+https://vk.com 418
+https://hao123.com ERROR : Head "https://hao123.com": tls: failed to verify certificate: x509: certificate is valid for baidu.com, baifubao.com, www.baidu.cn, www.baidu.com.cn, mct.y.nuomi.com, apollo.auto, dwz.cn, *.baidu.com, *.baifubao.com, *.baidustatic.com, *.bdstatic.com, *.bdimg.com, *.hao123.com, *.nuomi.com, *.chuanke.com, *.trustgo.com, *.bce.baidu.com, *.eyun.baidu.com, *.map.baidu.com, *.mbd.baidu.com, *.fanyi.baidu.com, *.baidubce.com, *.mipcdn.com, *.news.baidu.com, *.baidupcs.com, *.aipage.com, *.aipage.cn, *.bcehost.com, *.safe.baidu.com, *.im.baidu.com, *.baiducontent.com, *.dlnel.com, *.dlnel.org, *.dueros.baidu.com, *.su.baidu.com, *.91.com, *.hao123.baidu.com, *.apollo.auto, *.xueshu.baidu.com, *.bj.baidubce.com, *.gz.baidubce.com, *.smartapps.cn, *.bdtjrcv.com, *.hao222.com, *.haokan.com, *.pae.baidu.com, *.vd.bdstatic.com, *.cloud.baidu.com, click.hm.baidu.com, log.hm.baidu.com, cm.pos.baidu.com, wn.pos.baidu.com, update.pan.baidu.com, not hao123.com
+https://google.de 200
+https://taobao.com 200
+https://weibo.com 200
+https://t.co 200
+https://qq.com 501
+https://msn.com 404
+https://yandex.ru 200
+https://instagram.com 200
+https://ask.com 200
+https://reddit.com 200
+https://google.co.uk 200
+https://pinterest.com 200
+https://wordpress.com 200
+https://google.fr 200
+https://ebay.com ERROR : Head "https://pages.ebay.com/messages/page_not_responding.html": stopped after 10 redirects
+https://mail.ru 200
+https://yahoo.co.jp 200
+https://apple.com 200
+https://google.com.br 200
+https://paypal.com 200
+https://blogspot.com 200
+https://google.ru 200
+https://tmall.com 200
+https://microsoft.com 200
+https://aliexpress.com 200
+https://onclickads.net 200
+https://tumblr.com 200
+https://google.es 200
+https://baidu.com ERROR : Head "https://www.baidu.com/": context deadline exceeded
+https://google.it 200
+https://amazon.co.jp 200
+https://imgur.com 200
+https://xvideos.com 200
+https://fc2.com 200
+https://netflix.com ERROR : Head "https://netflix.com": read tcp 192.168.0.112:51378->54.155.246.232:443: wsarecv: An existing connection was forcibly closed by the remote host.
+https://stackoverflow.com 200
+https://sohu.com 403
+https://google.com.mx 200
+https://imdb.com 202
+https://amazon.de 405
+https://google.ca 200
+https://google.com.hk 200
+https://360.cn 403
+https://go.com 200
+https://gmw.cn 200
+https://alibaba.com 200
+https://ok.ru 200
+https://google.com.tr 200
+https://amazon.in 405
+https://blogger.com 200
+https://naver.com 200
+https://amazon.co.uk 405
+https://xhamster.com 200
+https://diply.com 200
+https://soso.com 304
+https://cnn.com 200
+https://google.co.id 200
+https://flipkart.com 200
+https://outbrain.com 200
+https://espn.go.com 200
+https://googleusercontent.com 404
+https://xinhuanet.com ERROR : Head "https://xinhuanet.com": tls: failed to verify certificate: x509: certificate is valid for *.edgenext.com, not xinhuanet.com
+https://bongacams.com 403
+https://github.com 200
+https://dropbox.com 200
+https://google.co.kr 200
+https://nicovideo.jp 200
+https://google.pl 200
+https://ebay.de 200
+https://google.com.au 200
+https://kat.cr 200
+https://pixnet.net 200
+https://tradeadexchange.com 403
+https://googleadservices.com 404
+https://bbc.co.uk 200
+https://tianya.cn ERROR : Head "https://tianya.cn": dial tcp: lookup tianya.cn: getaddrinfow: This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server.
+https://directrev.com ERROR : Head "https://directrev.com": dial tcp: lookup directrev.com: no such host
+https://sogou.com 200
+https://adnetworkperformance.com 403
+https://wikia.com 403
+https://adobe.com 200
+https://craigslist.org ERROR : Head "https://bangalore.craigslist.org/": context deadline exceeded
+https://ebay.co.uk 200
+https://pornhub.com ERROR : Head "https://pornhub.com": context deadline exceeded
+https://nytimes.com 200
+https://dailymotion.com 200
+https://rakuten.co.jp ERROR : Head "https://www.rakuten.co.jp/": context deadline exceeded
+https://livedoor.jp ERROR : Head "https://livedoor.jp": tls: failed to verify certificate: x509: certificate is valid for *.blog.livedoor.com, blog.livedoor.com, not livedoor.jp
+https://popads.net 200
+https://china.com ERROR : Head "https://china.com": dial tcp: lookup china.com: no such host
+https://adcash.com 200
+https://dailymail.co.uk 200
+https://indiatimes.com 403
+https://coccoc.com 200
+https://bbc.com 200
+https://booking.com 202
+https://google.com.sa 200
+https://jd.com 200
+https://xnxx.com 200
+https://buzzfeed.com 200
+https://alipay.com 200
+https://chase.com 200
+https://dmm.co.jp 403
+https://google.com.eg 200
+https://163.com 200
+https://google.com.tw 200
+https://microsoftonline.com ERROR : Head "https://microsoftonline.com": dial tcp: lookup microsoftonline.com: no such host
+https://office.com 405
+https://huffingtonpost.com 200
+https://snapdeal.com 200
+https://walmart.com 200
+https://ameblo.jp 200
+https://google.com.ar 200
+https://daum.net 404
+https://blogspot.in 200
+https://youku.com 200
+https://twitch.tv 200
+https://etsy.com 403
+https://bankofamerica.com 200
+https://google.com.pk 200
+https://terraclicks.com 200
+https://whatsapp.com 200
+https://theguardian.com 200
+https://china.com.cn ERROR : Head "https://china.com.cn": dial tcp 202.130.245.42:443: connectex: No connection could be made because the target machine actively refused it.
+https://amazon.fr 405
+https://flickr.com 200
+https://amazon.cn 200
+https://aol.com 429
+https://stackexchange.com 200
+https://indeed.com 403
+https://weather.com 200
+https://uol.com.br 200
+https://slideshare.net 200
+https://yelp.com 200
+https://reimageplus.com 405
+https://soundcloud.com 200
+https://tudou.com 200
+https://ettoday.net 200
+https://quora.com 403
+https://google.nl 200
+https://chinadaily.com.cn 200
+https://naver.jp ERROR : Head "https://naver.jp": dial tcp: lookup naver.jp: no such host
+https://bp.blogspot.com ERROR : Head "https://bp.blogspot.com": dial tcp: lookup bp.blogspot.com: no such host
+https://cnet.com 200
+https://amazon.it 405
+https://detail.tmall.com 200
+https://google.co.za 200
+https://globo.com 403
+https://google.co.ve 200
+https://amazonaws.com ERROR : Head "https://amazonaws.com": context deadline exceeded
+https://forbes.com 200
+https://wellsfargo.com 200
+https://cntv.cn 403
+https://cnzz.com ERROR : Head "https://cnzz.com": tls: failed to verify certificate: x509: certificate is valid for *.umeng.com, *.ads.umeng.com, *.cnzz.com, *.databank.umeng.com, *.dratio.com, *.http.cnzz.com, *.login.umeng.com, *.mobile.cnzz.com, *.mobmore.com, *.open.umeng.com, *.touch.umeng.com, *.um1.cn, *.umeng.alibaba-inc.com, *.umengcloud.com, *.umsns.com, *.umtrack.com, *.umtrack0.com, *.umtrack1.com, *.umtrack2.com, *.umv0.com, *.umv5.com, *.upush.umeng.com, *.uyunad.com, *.whalecloud.com, *.wrating.com, *.www.umeng.com, um1.cn, umeng.com, not cnzz.com
+https://adf.ly 403
+https://douban.com 418
+https://ikea.com 200
+https://kakaku.com 200
+https://zillow.com 403
+https://leboncoin.fr 403
+https://vice.com 200
+https://target.com 200
+https://spaceshipads.com ERROR : Head "https://spaceshipads.com": dial tcp: lookup spaceshipads.com: no such host
+https://vimeo.com 200
+https://google.gr 200
+https://about.com 460
+https://gmail.com 200
+https://bestbuy.com ERROR : Head "https://www.bestbuy.com/": stream error: stream ID 1; INTERNAL_ERROR; received from peer
+https://goo.ne.jp 403
+https://avito.ru 200
+https://tripadvisor.com 403
+https://allegro.pl 403
+https://salesforce.com 200
+https://redtube.com ERROR : Head "https://redtube.com": context deadline exceeded
+https://foxnews.com 200
+https://files.wordpress.com 200
+https://google.com.ua 200
+https://nih.gov 200
+https://washingtonpost.com ERROR : Head "https://www.washingtonpost.com/": stream error: stream ID 1; INTERNAL_ERROR; received from peer
+https://livejournal.com ERROR : Head "https://livejournal.com": read tcp 192.168.0.112:51616->81.19.74.0:443: wsarecv: An existing connection was forcibly closed by the remote host.
+https://loading-delivery2.com ERROR : Head "https://loading-delivery2.com": context deadline exceeded
+https://themeforest.net 200
+https://feedly.com 200
+https://deviantart.com 200
+https://adplxmd.com ERROR : Head "http://ww17.adplxmd.com/": read tcp 192.168.0.112:60336->199.191.50.72:80: wsarecv: An existing connection was forcibly closed by the remote host.
+https://w3schools.com 200
+https://9gag.com 200
+https://wikihow.com 200
+https://akamaihd.net ERROR : Head "https://akamaihd.net": dial tcp: lookup akamaihd.net: no such host
+https://youporn.com ERROR : Head "https://youporn.com": context deadline exceeded
+https://mozilla.org 200
+https://office365.com 200
+https://wordpress.org 200
+https://mediafire.com 200
+https://google.cn 200
+https://businessinsider.com 200
+https://gfycat.com ERROR : Head "https://gfycat.com": dial tcp: lookup gfycat.com: no such host
+https://godaddy.com ERROR : Head "https://godaddy.com": context deadline exceeded
+https://softonic.com 406
+https://google.com.co 200
+https://onet.pl 200
+https://taboola.com 200
+https://google.co.th 200
+https://tubecup.com ERROR : Head "https://txxx.com/": context deadline exceeded
+https://pixiv.net 200
+https://doublepimp.com ERROR : Head "https://doublepimp.com": context deadline exceeded
+https://americanexpress.com 200
+https://steamcommunity.com 200
+https://mystart.com 200
+https://theladbible.com ERROR : Head "https://theladbible.com": context deadline exceeded
+https://wix.com 200
+https://zhihu.com 405
+https://amazon.es 405
+https://zol.com.cn 403
+https://wikimedia.org 403
+https://google.com.sg 200
+https://archive.org 200
+https://comcast.net ERROR : Head "https://comcast.net": dial tcp 96.99.227.0:443: connectex: No connection could be made because the target machine actively refused it.
+https://google.ro 200
+https://homedepot.com 200
+https://ups.com ERROR : Head "https://www.ups.com/": stream error: stream ID 1; INTERNAL_ERROR; received from peer
+https://hclips.com ERROR : Head "https://hclips.com": context deadline exceeded
+https://usps.com 200
+https://doorblog.jp 200
+https://force.com 200
+https://telegraph.co.uk 200
+https://skype.com 200
+https://google.com.ng 200
+https://detik.com 200
+https://addthis.com 200
+https://google.com.ph 200
+https://shutterstock.com 403
+https://bitauto.com 200
+https://ebay-kleinanzeigen.de 200
+https://google.se 200
+https://nfl.com 200
+https://popcash.net 200
+https://blogspot.com.br 404
+https://github.io 200
+https://weebly.com 200
+https://ndtv.com 403
+https://steampowered.com 200
+https://hulu.com 200
+https://gamer.com.tw 200
+https://web.de 200
+https://nametests.com 405
+https://huanqiu.com 200
+https://sourceforge.net 403
+https://rambler.ru 200
+https://avg.com 200
+https://hdfcbank.com 200
+https://espncricinfo.com 403
+https://tlbb8.com ERROR : Head "https://tlbb8.com": tls: failed to verify certificate: x509: certificate is valid for prepackliquidation.com, www.prepackliquidation.com, not tlbb8.com
+https://51.la 200
+https://mailchimp.com 200
+https://bilibili.com 200
+https://hp.com 503
+https://youm7.com 200
+https://mercadolivre.com.br 403
+https://secureserver.net ERROR : Head "https://secureserver.net": context deadline exceeded
+https://gmx.net 200
+https://orange.fr 200
+https://speedtest.net 200
+https://google.at 200
+https://answers.com 200
+https://livejasmin.com 200
+https://xuite.net ERROR : Head "https://xuite.net": dial tcp: lookup xuite.net: no such host
+https://xfinity.com 403
+https://blogfa.com 200
+https://wordreference.com 200
+https://uptodown.com 405
+https://usatoday.com 200
+https://ebay.in 200
+https://google.pt 200
+https://xywy.com ERROR : Head "https://xywy.com": context deadline exceeded
+https://bet365.com 403
+https://hootsuite.com 200
+https://paytm.com 200
+https://capitalone.com 200
+https://google.be 200
+https://media.tumblr.com 404
+https://icicibank.com 200
+https://thesaurus.com 403
+https://goodreads.com 200
+https://ifeng.com 200
+https://webmd.com 200
+https://wp.pl 200
+https://t-online.de 200
+https://bild.de 200
+https://ign.com 403
+https://spotify.com 200
+https://bloomberg.com 403
+https://udn.com 200
+https://mashable.com 200
+https://wsj.com 404
+https://accuweather.com ERROR : Head "https://accuweather.com": stream error: stream ID 1; INTERNAL_ERROR; received from peer
+https://engadget.com 200
+https://badoo.com 200
+https://samsung.com 403
+https://macys.com 403
+https://trello.com 200
+https://zendesk.com 403
+https://groupon.com ERROR : Head "https://groupon.com": context deadline exceeded
+https://amazon.ca 200
+https://gsmarena.com 200
+https://reference.com 200
+https://rediff.com 200
+https://pandora.com 200
+https://att.com 200
+https://kohls.com 403
+https://icloud.com 200
+https://mlb.com 200
+https://kickstarter.com 403
+https://tistory.com 200
+https://bleacherreport.com 200
+https://evernote.com 200
+https://fedex.com ERROR : Head "https://www.fedex.com/": context deadline exceeded
+https://meetup.com 403
+https://ebay.it 200
+https://dell.com 200
+https://reuters.com 401
+https://newegg.com 200
+https://oracle.com 200
+https://slack.com 200
+https://hm.com ERROR : Head "https://hm.com": stream error: stream ID 1; INTERNAL_ERROR; received from peer
+https://theverge.com 200
+https://goal.com 200
+https://fiverr.com 403
+https://iqiyi.com 200
+https://lifehacker.com 200
+https://lowes.com 403
+https://scribd.com 200
+https://billdesk.com ERROR : Head "https://billdesk.com": tls: failed to verify certificate: x509: certificate is valid for www.billdesk.com, not billdesk.com
+https://gizmodo.com 200
+https://researchgate.net 403
+https://citi.com 403
+https://asus.com 404
+https://pcmag.com 403
+https://staples.com 403
+https://foodnetwork.com 403
+https://upwork.com 403
+https://popsugar.com 200
+https://bitly.com 405
+https://tinyurl.com 200
+https://hostgator.com 403
+https://mega.nz ERROR : Head "https://mega.nz": context deadline exceeded
+https://eventbrite.com 200
+https://bhphotovideo.com 403
+https://cbssports.com 200
+https://xda-developers.com 200
+https://marca.com 403
+https://zara.com 403
+https://academia.edu 200
+https://semrush.com 200
+https://zoho.com 200
+https://sciencedirect.com 403
+https://state.gov 200
+https://nypost.com 200
+https://howtogeek.com 200
+https://shareasale.com 200
+https://zappos.com 200
+https://cbsnews.com 200
+https://coursera.org 200
+https://messenger.com 200
+https://aa.com 403
+https://marketwatch.com 401
+https://houzz.com 200
+https://xbox.com 200
+https://bodybuilding.com 200
+https://rightmove.co.uk 200
+https://mi.com 403
+https://ticketmaster.com 403
+https://gamespot.com 403
+https://lequipe.fr 200
+https://mit.edu 200
+https://wiktionary.org 403
+https://ibm.com 200
+https://4chan.org 403
+https://mayoclinic.org 200
+https://cnbc.com ERROR : Head "https://cnbc.com": context deadline exceeded
+https://windows.com 200
+https://digitaltrends.com 403
+https://techradar.com 403
+https://usaa.com 200
+https://quizlet.com 403
+https://leagueoflegends.com 200
+https://android.com 200
+https://iflscience.com 403
+https://getpocket.com 200
+https://myfitnesspal.com 200
+https://nhl.com 200
+https://bluehost.com 403
+https://cisco.com 200
+https://tomshardware.com 200
+https://intel.com 200
+https://allocine.fr 200
+https://tutorialspoint.com 200
+https://thehindu.com 200
+https://jcpenney.com ERROR : Head "http://www.jcpenney.com/": context deadline exceeded
+https://genius.com 200
+https://roblox.com 200
+https://news.com.au 403
+https://mapquest.com 200
+https://ultimate-guitar.com 403
+https://match.com 403
+https://fandango.com 200
+https://nbcsports.com 200
+https://welt.de 200
+https://prezi.com 406
+https://digg.com 200
+https://nasa.gov 200
+https://coupons.com 200
+https://audible.com 405
+https://yellowpages.com 403
+https://ea.com 200
+https://entrepreneur.com 200
+https://kotaku.com 200
+https://whitepages.com 200
+https://istockphoto.com 200
+https://basecamp.com 200
+https://sky.com 200
+https://nairaland.com 403
+https://clarin.com 200
+https://marriott.com 403
+https://walgreens.com 200
+https://monster.com 200
+https://weather.gov 200
+https://duckduckgo.com 200
+https://moneycontrol.com 200
+https://nba.com ERROR : Head "https://www.nba.com/": stream error: stream ID 1; INTERNAL_ERROR; received from peer
+https://bt.com 403
+https://pof.com 200
+https://udemy.com 403
+https://change.org 200
+https://makemytrip.com 200
+https://freepik.com 403
+https://statcounter.com 403
+https://asus.com 404
+https://billdesk.com ERROR : Head "https://billdesk.com": tls: failed to verify certificate: x509: certificate is valid for www.billdesk.com, not billdesk.com
+https://india.com ERROR : Head "https://www.india.com/": context deadline exceeded
+https://agoda.com 200
+https://wayfair.com 429
+https://slate.com 200
+https://php.net 200
+https://noaa.gov 403
+https://csdn.net 403
