@@ -17,7 +17,7 @@ type Config struct {
 	InputFile string `yaml:"input_file"`
 	OutputFile string `yaml:"output_file"`
 }
-
+//for loading
 func LoadConfig(path string) (*Config, error) {
 	data, err := os.ReadFile(path)
 	if err != nil {

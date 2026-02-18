@@ -18,7 +18,6 @@ type Result struct {
 	Url string
 	Status int
 	Error string
-
 }
 
 
