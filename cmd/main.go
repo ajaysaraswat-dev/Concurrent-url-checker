@@ -13,10 +13,7 @@ import (
 	"github.com/ajaysaraswat/concurrency/internal/config"
 )
 
-// Now i am explaing how i want to do this task but you read my approach and then talk to me is it worakble in production and industry level and a good architect so first
-// first i make the file in h=which there is 100k urls then i created a queue(channel) of 1000 size and make the 500 workers. queue will take th eurls from file and and workers(goroutime )
-// process these urls and check the status of urls using the head[i think this is a working pool] and every worker after knowing the status, update the file with status .can this apporach is good and work in production and becakedn archetect level?
-// explain the existance of this approach
+
 type Result struct {
 	Url string
 	Status int
