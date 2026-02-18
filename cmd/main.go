@@ -9,6 +9,8 @@ import (
 	"os"
 	"sync"
 	"time"
+
+	"github.com/ajaysaraswat/concurrency/internal/config"
 )
 
 // Now i am explaing how i want to do this task but you read my approach and then talk to me is it worakble in production and industry level and a good architect so first
@@ -22,22 +24,28 @@ type Result struct {
 
 }
 
-const (
-	workerCount = 10
-	queueSize = 100
-	Timeout = 5 * time.Second
-)
+
 
 
 func main(){
-	inputfile,err := os.Open("urls.txt")
-	if err!=nil {
-		panic(err)
+	cfg,err := config.LoadConfig("config.yaml")
+	if err != nil {
+		log.Fatal("error to load config file",err)
 	}
-	defer inputfile.Close()
+	
+
+	workerCount := cfg.Server.Workers
+	queueSize := cfg.Server.QueueSize
+	Timeout := cfg.Server.Timeout
+
+
+	inputfile, err := os.Open(cfg.InputFile)
+    if err != nil {
+	log.Fatalf("failed to open input file: %v", err)
+    }   
 
 	//create the output file 
-	outputfile,err := os.Create("results.txt")
+	outputfile,err := os.Create(cfg.OutputFile)
 	if err != nil {
 		panic(err)
 	}
@@ -47,7 +55,7 @@ func main(){
 	results := make(chan Result,queueSize)
 
 	client := &http.Client{
-		Timeout : Timeout,
+		Timeout: time.Duration(Timeout)*time.Second,
 	}
 	var wg sync.WaitGroup
 
@@ -77,7 +85,7 @@ func main(){
 func processUrl(i int,jobs <-chan string,results chan <-Result,client *http.Client,wg *sync.WaitGroup){
 	defer wg.Done()
 	for url := range jobs {
-		ctx,cancel := context.WithTimeout(context.Background(),Timeout)
+		ctx,cancel := context.WithTimeout(context.Background(),client.Timeout)
 		
 		req,err := http.NewRequestWithContext(ctx,"HEAD",url,nil)
 		if err != nil {

@@ -1,0 +1,7 @@
+server:
+  workers: 50
+  queuesize: 100
+  timeout: 5
+
+input_file: urls.txt
+output_file: results.txt
